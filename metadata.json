@@ -1,0 +1,5 @@
+{
+  "name": "Markdown <> Scrapbox Converter",
+  "description": "A web-based tool to seamlessly convert text between Markdown and Scrapbox syntax. Instantly transform your notes with support for headings, lists, links, bold text, and code blocks.",
+  "requestFramePermissions": []
+}
